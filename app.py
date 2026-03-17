@@ -53,7 +53,7 @@ st.sidebar.markdown("""
 - TF-IDF  
 - Machine Learning  
 
-👨‍💻 **Developer:** Ajit Kumar
+👨‍💻 **Developer:** Ajit Kumar with his team members
 """)
 
 # ---------------- CUSTOM CSS ----------------
