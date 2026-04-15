@@ -69,21 +69,6 @@ pip install -r requirements.txt
 3️⃣ Run the app
 streamlit run app.py
 
-
-👨‍💻 Developer
-
-Ajit Kumar
-
-💼 Computer Science Student
-
-🌐 GitHub: https://github.com/SafarwithAK
-
-🔗 LinkedIn: https://www.linkedin.com/in/ajit-kumar-36729328a/
-
-📧 Email: ajitkumar09112005@gmail.com
-
-📄 Resume Description (Short)
-
 Developed a Machine Learning based Spam Email Classifier using NLP and TF-IDF achieving 97.96% accuracy. Implemented confidence scoring, dark/light UI, and deployed the application on Streamlit Cloud.
 
 ⭐ Future Enhancements
